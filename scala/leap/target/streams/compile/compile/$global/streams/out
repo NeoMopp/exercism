@@ -1,0 +1,24 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/will/Documents/scala-dev/exercism/scala/leap/src/main/scala/Leap.scala:7:20: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : Unit[0m
+[0m[[0m[31merror[0m] [0m[0m required: Boolean[0m
+[0m[[0m[31merror[0m] [0m[0m            result = true[0m
+[0m[[0m[31merror[0m] [0m[0m                   ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/will/Documents/scala-dev/exercism/scala/leap/src/main/scala/Leap.scala:9:20: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : Unit[0m
+[0m[[0m[31merror[0m] [0m[0m required: Boolean[0m
+[0m[[0m[31merror[0m] [0m[0m            result = false[0m
+[0m[[0m[31merror[0m] [0m[0m                   ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/will/Documents/scala-dev/exercism/scala/leap/src/main/scala/Leap.scala:12:16: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : Unit[0m
+[0m[[0m[31merror[0m] [0m[0m required: Boolean[0m
+[0m[[0m[31merror[0m] [0m[0m        result = false[0m
+[0m[[0m[31merror[0m] [0m[0m               ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/will/Documents/scala-dev/exercism/scala/leap/src/main/scala/Leap.scala:15:12: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : Unit[0m
+[0m[[0m[31merror[0m] [0m[0m required: Boolean[0m
+[0m[[0m[31merror[0m] [0m[0m    result = false[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/will/Documents/scala-dev/exercism/scala/leap/src/main/scala/Leap.scala:18:3: not found: value result[0m
+[0m[[0m[31merror[0m] [0m[0m  result[0m
+[0m[[0m[31merror[0m] [0m[0m  ^[0m
+[0m[[0m[31merror[0m] [0m[0m5 errors found[0m
