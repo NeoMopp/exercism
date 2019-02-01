@@ -14,6 +14,14 @@ object Bob {
 
   //Function to check if the sentence has any words that are "shouted"
   def isShouting(statement: String): Boolean = {
-    
+    //Break the sentence into an array
+    words : Array[String] = statement.split(" ")
+    //Check to see if any of the words have been shouted and return
+    var result = false
+    for (word <- words){
+      if (word.toUpperCase() == word && word.charAt(0) == world.charAt(0).toLowerCase){
+        result = true
+    }
   }
+  result
 }
