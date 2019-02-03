@@ -30,5 +30,4 @@ object Bob {
     val res = statement.exists((('a' to 'z') ++ ('A' to 'Z')).toSet.contains(_))
     res
   }
-
 }
