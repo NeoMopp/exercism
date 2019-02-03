@@ -1,0 +1,30 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mBobTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- stating something[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- shouting[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- shouting gibberish[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- asking a question[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- asking a numeric question[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- asking gibberish[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- talking forcefully[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- using acronyms in regular speech[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m- forceful question *** FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  "[Whoa, chill out]!" was not equal to "[Calm down, I know what I'm doing]!" (BobTest.scala:49)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- shouting numbers[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- no letters[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- question with no letters[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- shouting with special characters[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- shouting with no exclamation mark[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- statement containing question mark[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- non-letters with question[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- prattling on[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- silence[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- prolonged silence[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m- alternate silence *** FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  "[Whatever.]" was not equal to "[Fine. Be that way!]" (BobTest.scala:106)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- multiple line question[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- starting with whitespace[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m- ending with whitespace *** FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  "[Whatever]." was not equal to "[Sure]." (BobTest.scala:123)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m- other whitespace *** FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  "[Whatever.]" was not equal to "[Fine. Be that way!]" (BobTest.scala:129)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- non-question ending with whitespace[0m[0m

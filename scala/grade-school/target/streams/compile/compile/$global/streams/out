@@ -1,0 +1,6 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/will/Documents/scala-dev/exercism/scala/grade-school/src/main/scala/School.scala:7:21: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : String[0m
+[0m[[0m[31merror[0m] [0m[0m required: Seq[String][0m
+[0m[[0m[31merror[0m] [0m[0m    school += (g -> name)[0m
+[0m[[0m[31merror[0m] [0m[0m                    ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
